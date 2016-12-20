@@ -13,3 +13,9 @@
 *= require mobile
 *= require_self
 */
+h1 {
+    font-size:2em;
+    padding:1em;
+    font-weight:bold;
+    background-color: #d9534f;
+}
